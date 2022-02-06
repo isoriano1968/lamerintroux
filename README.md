@@ -5,9 +5,9 @@ This initial version compiles on sgi IRIX 6.5.30 (used MIPSpro 7.4) and OpenIndi
 
 Requires at least glut and libmikmod.
 
-Bear in mind that playing a mod from the demo has a performance hit of nearly 17 FPS (instead of playing the via mikmod, xmms etc). Maybe threading (creating an individual process from the app via a pthread could mitigate that performance penalty).
+Bear in mind that playing a mod from the demo has a performance hit of nearly 17 FPS (instead of playing the mod via mikmod, xmms etc). Maybe threading (creating an individual process from within the app) via a pthread could mitigate that performance penalty.
 
-Remember I call it Lamer Intro because the code and structure is probably the worst thing you may have seen a professional coder .. I am not :-) 
+Remember I call it Lamer Intro because the code and structure is probably the worst thing you may have seen as professional coder .. I am not :-) 
 
 Enjoy the code and if you have an HP-UX or AIX machine I would love to see it running on those machines as well.
 
