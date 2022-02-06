@@ -1,4 +1,4 @@
-# lamerintroux
+# Lamer Intro sgi/sun
 OpenGL 1.2 Lamer Intro *oldskool*
 
 This initial version compiles on sgi IRIX 6.5.30 (used MIPSpro 7.4) and OpenIndiana 2021.10 (g++ 7) (Solaris 10 U8 SPARC tested as well).
